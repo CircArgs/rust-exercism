@@ -1,0 +1,8 @@
+[package]
+edition = "2018"
+name = "parallel-letter-frequency"
+version = "0.0.0"
+
+[dependencies]
+counter = "0.5.2"
+rayon = "1.5.0"
